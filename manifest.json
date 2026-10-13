@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
   "name": "YouTube Taller Save Popup",
-  "version": "1.0.0",
-  "description": "Makes YouTube's \"Save to...\" playlist popup taller so more playlists are visible at once.",
+  "version": "1.2.0",
+  "description": "Makes YouTube's \"Save to...\" playlist popup taller and adds a search box to filter playlists.",
   "content_scripts": [
     {
       "matches": ["https://www.youtube.com/*"],
