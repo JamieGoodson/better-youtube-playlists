@@ -3,7 +3,7 @@
 A Chrome extension that improves YouTube's "Save to..." playlist popup:
 
 - **Taller popup** — shows all your playlists (up to the screen height) instead of ~4 at a time.
-- **Playlist search** — filter playlists by title as you type. The popup keeps its height while you search so it doesn't jump around.
+- **Playlist search** — filter playlists by title as you type.
 
 --- 
 #### Taller popup
